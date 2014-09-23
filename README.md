@@ -17,7 +17,7 @@ restrictions, nothing - all free!
 Howto
 =====
 
-Please head over to the discussion "forum" after reading:
+Please [head over to the forum](https://github.com/hackerfleet/discuss/issues/) after reading:
 
 * Always be polite, obey the netiquette, please
 * Discourse should be related to these topics:
@@ -37,5 +37,6 @@ some things should be considered:
 * No code in the repository itself. Commits and other requests
   will largely be ignored.
 
-Have fun and collaborrrrate!
-    -- @riot & @ijon
+Have fun collaborrrrating!
+
+    -- @ri0t & @ij0n
