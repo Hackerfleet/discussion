@@ -41,9 +41,6 @@ some things should be considered:
 * No code in the repository itself. Commits and other requests
   will largely be ignored.
 
-~~~There is also [a more-forum-like version of this on ost.io](https://ost.io/@hackerfleet/discussion).
-Don't use, we're evaluating this first.
-
 Have fun collaborrrrating!
 
     -- @ri0t & @ij0n
